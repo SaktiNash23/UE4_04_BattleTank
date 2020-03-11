@@ -13,3 +13,4 @@
 * Tank Control System
 * Actors from Multiple Meshes
 * Configuring a Tank
+* 3rd Person Camera Control
