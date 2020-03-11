@@ -14,3 +14,4 @@
 * Actors from Multiple Meshes
 * Configuring a Tank
 * 3rd Person Camera Control
+* Fixing 3rd Person Camera Control
