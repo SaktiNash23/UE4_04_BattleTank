@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Starter Content to ignore
 BattleTank/Content/StarterContent/
+
+
+# Additional Stuff to ignore. Add any specific things you want to ignore beneath this line
+BattleTank/Content/Materials/M_Basic_Floor.uasset
