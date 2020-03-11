@@ -9,3 +9,5 @@
 * Using Landscape Layers
 * Flat Shading Low Poly Landscapes
 * More Landscaping Tools
+* Quiz 18: Mid Section Quiz
+* Tank Control System
